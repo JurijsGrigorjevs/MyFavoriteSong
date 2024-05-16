@@ -1,7 +1,7 @@
 ## **Visual Studio - Final Assignment**
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
 ![Static Badge](https://img.shields.io/badge/HTML-red)
-![Static Badge](https://img.shields.io/badge/CSS-yellow)
+![Static Badge](https://img.shields.io/badge/CSS-blue)
 
 ## **Introduction**
 This repository contains the Visual Studio project that I completed as part of my course. The project is a web-based application created using HTML, CSS and JavaScript to demonstrate my understanding of front-end web development principles. In this README, you will find information about the project's purpose, the technologies used, the launch version, and other essential details to help you understand and potentially reproduce the project.
