@@ -1,0 +1,107 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: gray;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: gray;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 60%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 100px;
+   
+}
+.footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    white-space: nowrap;
+    line-height: 100px;
+    color: rgb(57, 5, 187);
+    font-size: x-large;
+    text-align: right;
+    background-color: rgb(241, 231, 121);
+    text-shadow: 0px 0px 10px rgb(131, 32, 218);
+}
+
+
+/*flexing*/
+#flex {
+    font-weight: bold;
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px; /* Add padding around the heading */
+    margin: 0;
+    line-height: 2;
+}
+
+/*video*/
+.video_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 75vh;
+}
+
+/*background*/
+.background {
+    background-image: linear-gradient(rgba(255,255,255, 0.7) 0 100%), url("../image/nature.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
