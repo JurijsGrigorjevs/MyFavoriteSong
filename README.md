@@ -9,8 +9,8 @@ This repository contains the Visual Studio project that I completed as part of m
 ## **Technologies**
 The project primarily makes use of the following technologies:
 
-- HTML (Hypertext Markup Language)
-- CSS (Cascading Style Sheets)
+- HTML
+- CSS
 - JavaScript
 
 ## **Launch**
